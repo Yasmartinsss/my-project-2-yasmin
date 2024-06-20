@@ -40,3 +40,16 @@ Este projeto foi desenvolvido como parte de uma tarefa para criar cinco componen
 ├── package-lock.json
 ├── package.json
 └── vue.config.js
+
+## Sobre a Autora
+
+Olá! Meu nome é Yasmin, e sou a autora deste projeto. Sou aluna do curso de Tecnologia em Sistemas para Internet
+
+- E-mail: yasminmartinsss1@Gmail.com
+
+Fique à vontade para entrar em contato se tiver alguma dúvida ou feedback sobre este projeto. 
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
